@@ -49,6 +49,7 @@ namespace ProgrammaPerMedie_pippi
             }
             catch
             {
+
                 MessageBox.Show("Attenzione devi inserire dei numeri sulle quantità");
             }
         }
